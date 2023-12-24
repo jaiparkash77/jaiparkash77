@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaiparkash77
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently Working on ReactJs, CSS, Figma, and Testing.
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me: https://linktr.ee/jaiparkash77
 
